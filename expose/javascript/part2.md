@@ -2,7 +2,7 @@
 2. ```150```<br>
 3. ```150```<br>
 4. It retuns nothing. It doesn't log anything to the console, but its calculating those values. ```Console.log``` is like a ```System.out.print``` in java<br>
-5. ```ReferenceError: i is not defined``` this is because ```i``` is defined only in the for loop block by ```let``` so it's not accessible to the ```console.log```<br>
+5. ```ReferenceError: i is not defined``` this is because ```i``` is defined only in the for loop block by ```let``` so it's not accessible to the ```console.log```<br>[correct answer 50, 100, 150]
 6. ```ReferenceError: discountedPrice is not defined``` in the same way, this happen because ```discountedPrice``` is defined only in the for loop block by ```let``` so it's not accessible to the ```console.log```<br>
 7. ```150``` <br>
 8. It retuns nothing. It doesn't log anything to the console, but its calculating those values. ```Console.log``` is like a ```System.out.print``` in java<br>
